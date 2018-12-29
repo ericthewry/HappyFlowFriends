@@ -51,7 +51,7 @@ header_type my_metadata_t {
     }
 }
 
-header my_metadata_t my_metadata;
+metadata my_metadata_t my_metadata;
 
 register heavy_hitter_register0 {
     width : 16;
